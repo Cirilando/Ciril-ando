@@ -1,0 +1,12 @@
+#tree{
+    transform: rotate(50deg);
+}
+button:hover{
+    background-color: aqua;
+    border-radius: 50%;
+}
+button{
+    background: greenyellow;
+    transition-property: background, border;
+    transition-duration: 5sec;
+}
